@@ -1,0 +1,93 @@
+{
+  "status": "ok",
+  "sources": [
+    {
+      "name": "iPhone11",
+      "img": "",
+      "company": "Apple",
+      "OS": "IOS",
+      "color": "black",
+      "count": "2",
+      "year": 2018,
+      "price": 2000,
+      "isFavorite": "false"
+    },
+    {
+      "name": "iPhone12",
+      "img": "",
+      "company": "Apple",
+      "OS": "IOS",
+      "color": "white",
+      "count": "2",
+      "year": 2019,
+      "price": 2000,
+      "isFavorite": "false"
+    },
+    {
+      "name": "iPhone13",
+      "img": "../../assets/images/jennifer.png",
+      "company": "Apple",
+      "OS": "IOS",
+      "color": "red",
+      "count": "2",
+      "year": 2020,
+      "price": 2000,
+      "isFavorite": "false"
+    },
+    {
+      "name": "iPhone SE",
+      "img": "../../assets/images/jennifer.png",
+      "company": "Apple",
+      "OS": "IOS",
+      "color": "gray",
+      "count": "4",
+      "year": 2019,
+      "price": 2000,
+      "isFavorite": "false"
+    },
+    {
+      "name": "Galaxy A03",
+      "img": "",
+      "company": "Samsung",
+      "OS": "Android",
+      "color": "black",
+      "count": "5",
+      "year": 2020,
+      "price": 2000,
+      "isFavorite": "false"
+    },
+    {
+      "name": "Galaxy S20",
+      "img": "",
+      "company": "Samsung",
+      "OS": "Android",
+      "color": "Yellow",
+      "count": "6",
+      "year": 2019,
+      "price": 2000,
+      "isFavorite": "false"
+    },
+    {
+      "name": "Galaxy S21",
+      "img": "",
+      "company": "Samsung",
+      "OS": "Android",
+      "color": "white",
+      "count": "8",
+      "year": 2020,
+      "price": 2000,
+      "isFavorite": "false"
+    },
+    {
+      "name": "Poco X4 pro",
+      "img": "",
+      "company": "Xiaomi",
+      "OS": "Android",
+      "color": "black",
+      "count": "6",
+      "year": 2020,
+      "price": 2000,
+      "isFavorite": "false"
+    }
+  ]
+}
