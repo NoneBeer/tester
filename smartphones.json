@@ -23,7 +23,7 @@
       "year": 2020,
       "price": 1970,
       "isFavorite": "false",
-      "isPopular": "false"
+      "isPopular": "true"
     },
     {
       "id": 3,
@@ -192,7 +192,7 @@
       "year": 2020,
       "price": 2100,
       "isFavorite": "false",
-      "isPopular": "true"
+      "isPopular": "false"
     },
     {
       "id": 16,
