@@ -1,5 +1,6 @@
 [
     {
+      "id": 1,
       "name": "iPhone11",
       "img": "https://content2.onliner.by/catalog/device/header/e2189f90f9088975c553ec33431fc186.jpeg",
       "company": "Apple",
@@ -8,9 +9,11 @@
       "count": "8",
       "year": 2019,
       "price": 1689,
-      "isFavorite": "false"
+      "isFavorite": "false",
+      "isPopular": "true"
     },
     {
+      "id": 2,
       "name": "iPhone12",
       "img": "https://content2.onliner.by/catalog/device/header/4f68c0a86e8254fe09df404e98d56e53.jpeg",
       "company": "Apple",
@@ -19,9 +22,11 @@
       "count": "6",
       "year": 2020,
       "price": 1970,
-      "isFavorite": "false"
+      "isFavorite": "false",
+      "isPopular": "false"
     },
     {
+      "id": 3,
       "name": "iPhone13",
       "img": "https://content2.onliner.by/catalog/device/header/4d791ed3772224cacc1d0d5fc41761c9.jpeg",
       "company": "Apple",
@@ -30,9 +35,11 @@
       "count": "3",
       "year": 2021,
       "price": 2520,
-      "isFavorite": "false"
+      "isFavorite": "false",
+      "isPopular": "false"
     },
     {
+      "id": 4,
       "name": "iPhone SE",
       "img": "https://content2.onliner.by/catalog/device/header/caf657e9c32bcc54baa1c3945cac406d.jpeg",
       "company": "Apple",
@@ -41,9 +48,11 @@
       "count": "4",
       "year": 2022,
       "price": 1320,
-      "isFavorite": "false"
+      "isFavorite": "false",
+      "isPopular": "true"
     },
     {
+      "id": 5,
       "name": "Galaxy A03",
       "img": "https://content2.onliner.by/catalog/device/header/396338a70c184ebdb4d350628cf95890.jpeg",
       "company": "Samsung",
@@ -52,9 +61,11 @@
       "count": "9",
       "year": 2022,
       "price": 449,
-      "isFavorite": "false"
+      "isFavorite": "false",
+      "isPopular": "true"
     },
     {
+      "id": 6,
       "name": "Galaxy S20",
       "img": "https://content2.onliner.by/catalog/device/header/3ba73486a1439268e98f79f837d0f7f3.jpeg",
       "company": "Samsung",
@@ -63,9 +74,11 @@
       "count": "6",
       "year": 2020,
       "price": 1760,
-      "isFavorite": "false"
+      "isFavorite": "false",
+      "isPopular": "false"
     },
     {
+      "id": 7,
       "name": "Galaxy S21",
       "img": "https://content2.onliner.by/catalog/device/header/3918d8151850a2b0e4b8289df3592b9a.jpeg",
       "company": "Samsung",
@@ -74,9 +87,11 @@
       "count": "8",
       "year": 2021,
       "price": 2310,
-      "isFavorite": "false"
+      "isFavorite": "false",
+      "isPopular": "false"
     },
     {
+      "id": 8,
       "name": "Poco X4 pro",
       "img": "https://content2.onliner.by/catalog/device/header/4a646e2fc445506b55e253768a8be2f5.jpeg",
       "company": "Xiaomi",
@@ -85,6 +100,7 @@
       "count": "6",
       "year": 2022,
       "price": 1035,
-      "isFavorite": "false"
+      "isFavorite": "false",
+      "isPopular": "true"
     }
   ]
